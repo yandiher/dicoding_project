@@ -1,0 +1,1 @@
+envy\Scripts\activate
