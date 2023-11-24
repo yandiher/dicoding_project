@@ -1,1 +1,1 @@
-envy\Scripts\activate
+E:\data_science_project\envy\Scripts\activate
